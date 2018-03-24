@@ -1,0 +1,21 @@
+body {
+    background-color: #232323;
+}
+
+.PageHeader {
+    text-align: center;
+}
+
+.square {
+    float: left;
+    background: red;
+    width: 30%;
+    padding-bottom: 30%;
+    margin: 1.66%
+
+}
+
+#container {
+    max-width: 38%;
+    margin: 0 auto;
+}
